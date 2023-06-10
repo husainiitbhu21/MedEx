@@ -1,0 +1,11 @@
+PyPDF2
+openai
+flask
+flask-cors
+pikepdf
+python-pptx
+pillow
+Gunicorn
+numpy
+pinecone-client
+os
