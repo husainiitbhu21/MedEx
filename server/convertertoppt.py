@@ -9,7 +9,7 @@ from PIL import Image
 import os
 
 openai.organization="org-cVOFI4BRUZnhx1Qo61SinlEU"
-openai.api_key = "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"
+openai.api_key = "You API Key"
 model_engine = "text-davinci-003"
 user_prompt = "I want a powerpoint slide header and description from this text in 4 bullet points: "
 
