@@ -1,4 +1,4 @@
-# AI web-app for doctors to be able to effecitvely upload their articles to get summary and generate powerpoint slides.
+# AI web-app for doctors to be able to effectively upload their articles to get summary and generate powerpoint slides.
 
 ![Interface](https://i.imgur.com/R1a1Yvk.jpg)
 
